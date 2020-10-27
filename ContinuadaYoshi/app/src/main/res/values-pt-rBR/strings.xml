@@ -1,2 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">S.H.I.E.L.D.</string>
+    <string name="unable_to_get_agents">Não foi possível coletar os agentes</string>
+    <string name="access_system">Acessar o sistema</string>
+    <string name="access_code_hint">Código de acesso</string>
+    <string name="password_hint">Senha</string>
+    <string name="bt_access_text">Acessar</string>
+    <string name="access_code_required">Código de acesso é obrigatório</string>
+    <string name="password_is_required">Senha é obrigatório</string>
+    <string name="access_denied">Acesso negado</string>
+    <string name="level">Nível:</string>
+    <string name="location">Localização:</string>
+    <string name="unable_to_get_missions">Não foi possível coletar as missões do agente</string>
+    <string name="missions">Missões</string>
+</resources>
